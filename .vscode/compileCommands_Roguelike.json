@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Source\\Roguelike\\Roguelike.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\.vscode\\compileCommands_Roguelike\\Roguelike.255.rsp"
+		],
+		"directory": "D:\\Unreal5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Source\\Roguelike\\Roguelike.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\.vscode\\compileCommands_Roguelike\\Roguelike.255.rsp"
+		],
+		"directory": "D:\\Unreal5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Source\\Roguelike\\Roguelike.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\.vscode\\compileCommands_Roguelike\\Roguelike.255.rsp"
+		],
+		"directory": "D:\\Unreal5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Source\\Roguelike\\RoguelikeGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\.vscode\\compileCommands_Roguelike\\Roguelike.255.rsp"
+		],
+		"directory": "D:\\Unreal5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Source\\Roguelike\\RoguelikeGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\.vscode\\compileCommands_Roguelike\\Roguelike.255.rsp"
+		],
+		"directory": "D:\\Unreal5\\UE_5.1\\Engine\\Source"
+	}
+]

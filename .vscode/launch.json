@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Roguelike (Debug)",
+			"request": "launch",
+			"program": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "Roguelike Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Roguelike (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "Roguelike Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Roguelike (Development)",
+			"request": "launch",
+			"program": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "Roguelike Win64 Development Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Roguelike (Test)",
+			"request": "launch",
+			"program": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "Roguelike Win64 Test Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch Roguelike (Shipping)",
+			"request": "launch",
+			"program": "C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "Roguelike Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch RoguelikeEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Unreal5\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "RoguelikeEditor Win64 Debug Build",
+			"args": [
+				"C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Roguelike.uproject"
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch RoguelikeEditor (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Unreal5\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "RoguelikeEditor Win64 DebugGame Build",
+			"args": [
+				"C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Roguelike.uproject"
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch RoguelikeEditor (Development)",
+			"request": "launch",
+			"program": "D:\\Unreal5\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "RoguelikeEditor Win64 Development Build",
+			"args": [
+				"C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Roguelike.uproject"
+			],
+			"cwd": "D:\\Unreal5\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal5\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Unreal5\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "D:\\Unreal5\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\Kair\\Documents\\Unreal Projects\\Roguelike\\Roguelike.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Unreal5\\UE_5.1"
+		}
+	]
+}
