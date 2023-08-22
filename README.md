@@ -3,6 +3,5 @@
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0GKh-HcDeTw" target="_blank">
- <style> .center {display: block;margin-left: auto; margin-right: auto; width: 240px;}</style>
- <img src="http://img.youtube.com/vi/0GKh-HcDeTw/mqdefault.jpg" alt="Watch the demo" width="480" border="10" class = "center" />
+ <img src="http://img.youtube.com/vi/0GKh-HcDeTw/mqdefault.jpg" alt="Watch the demo" width="360" border="10" class = "center" />
 </a>
